@@ -1,0 +1,9 @@
+C:\Users\jruys\Documents\Visual Studio 2010\Projects\ExcelExample\ExcelExample\obj\Release\Interop.Microsoft.Office.Core.dll
+C:\Users\jruys\Documents\Visual Studio 2010\Projects\ExcelExample\ExcelExample\obj\Release\Interop.VBIDE.dll
+C:\Users\jruys\Documents\Visual Studio 2010\Projects\ExcelExample\ExcelExample\obj\Release\ExcelExample.csproj.ResolveComReference.cache
+C:\Users\jruys\Documents\Visual Studio 2010\Projects\ExcelExample\ExcelExample\bin\Release\ExcelExample.exe.config
+C:\Users\jruys\Documents\Visual Studio 2010\Projects\ExcelExample\ExcelExample\bin\Release\ExcelExample.exe
+C:\Users\jruys\Documents\Visual Studio 2010\Projects\ExcelExample\ExcelExample\bin\Release\Interop.Microsoft.Office.Core.dll
+C:\Users\jruys\Documents\Visual Studio 2010\Projects\ExcelExample\ExcelExample\bin\Release\Interop.VBIDE.dll
+C:\Users\jruys\Documents\Visual Studio 2010\Projects\ExcelExample\ExcelExample\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jruys\Documents\Visual Studio 2010\Projects\ExcelExample\ExcelExample\obj\Release\ExcelExample.exe
